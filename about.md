@@ -15,3 +15,4 @@ Find me on [Github][github] / [Twitter][Twitter] or just say `Hello` at
 
 [github]: https://github.com/stevenwante
 [twitter]: https://twitter.com/stevenwante
+[email]: mailto:me@stevenwante.com
