@@ -8,4 +8,4 @@ categories:
 permalink: 2015-11-13-forward-secrecy-perfect-encryption
 ---
 
-Does forward secrecy provide the highest level of secrecy? I'm find out now.
+Does forward secrecy provide the highest level of secrecy? Research in progress.
