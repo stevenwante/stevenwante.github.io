@@ -1,5 +1,5 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
+highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -10,15 +10,15 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+url: http://stevenwante.github.io/
+baseurl: /
+title: Steven Wante
+author: Steven Wante
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
-github: username
-twitter: chrisstturner
-linkedin: username
-disqus: username
-google_analytics: UA-69391421-1
+email: me@stevenwante.com
+github: stevenwante
+twitter: stevenwante
+linkedin: stevenwante
+#disqus: username
+google_analytics: UA-69944665-1
