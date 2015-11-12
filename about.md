@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Steven Wante, a Network Administrator by day and aspiring Security Guru by night. 
+Hi, I am Steven Wante, a Network Administrator by day and NetSec researcher by night. 
 Graduated from Wentworth Institute of Technology in 2010.
 
 ### Contact me
